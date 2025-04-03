@@ -3,5 +3,7 @@
 A short and efficient guide covering the main concepts and commands for SQL.  
 Feel free to use it as a reference or learning tool.
 
-> **Note:** This is still a work in progress and was originally created for personal use — errors or unclear explanations might be present.
+> **NOTE:** This is still a work in progress and was originally created for personal use — errors or unclear explanations might be present.
 
+> **NOTE:** For this guide, I created a custom database using non-sensitive data inspired by my own real-estate records.  
+The dataset was structured for practice purposes only and does not contain any private or proprietary information.
